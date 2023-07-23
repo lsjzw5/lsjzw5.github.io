@@ -1,5 +1,5 @@
 # Ziyu Wang Personal Website
-## University of Texas at Austin
+## :ox: University of Texas at Austin :metal:
  BS Mathematics | Minor in Business | Certificate in Elements of Computing | Certificate in Computational Science and Engineering
  
  MS Business Analytics | Financial Analytics I
